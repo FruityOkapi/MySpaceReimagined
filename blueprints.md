@@ -1,4 +1,4 @@
-My own redesign of old MySpace
+Redesign of old MySpace
 
 Main Features
     Profile customization
